@@ -184,3 +184,5 @@ var shop = function () {
 
 // start the game when the page loads
 startGame();
+
+//test last
